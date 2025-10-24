@@ -29,6 +29,9 @@ The final processed dataset is exported to a **CSV file** (`RetailSalesProcessed
    - Applied aggregations (e.g., total sales per product, region, or customer)  
 
 3. **Export to CSV**  
-   - Final structured dataset saved as `RetailSalesProcessedCSV.csv`  
+   - Final structured dataset saved as `RetailSalesProcessedCSV.csv`
+
+## 📈 Dashboard
+View Interactive Dashboard → https://lookerstudio.google.com/u/0/reporting/5111e5f7-10d9-4d38-aa20-09c82a69cfff/page/3rnWF
 
 ---
